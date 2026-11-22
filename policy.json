@@ -1,0 +1,6 @@
+{
+  "fx_date_selection": "invoice_issue_date",
+  "period_boundaries": "inclusive ISO-8601 timestamps",
+  "rounding": "ROUND_HALF_UP to currency minor unit",
+  "base_currency": "USD"
+}

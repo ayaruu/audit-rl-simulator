@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep-00000109",
+  "company_name": "Orion Paperworks",
+  "base_currency": "USD",
+  "period_start": "2026-01-01T00:00:00+00:00",
+  "period_end": "2026-01-31T23:59:59+00:00",
+  "timezone": "UTC",
+  "ledger_count": 221,
+  "document_count": 63,
+  "rounding": {
+    "mode": "ROUND_HALF_UP",
+    "minor_units": {
+      "USD": 2,
+      "EUR": 2,
+      "KZT": 2
+    }
+  }
+}
